@@ -20,15 +20,18 @@
   </a>
  </div>
 
+<br />
+
 # 💪 front-Skills
 
 ### Platforms & Languages
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br />
 
 # 💪 Back-Skills
 
@@ -41,12 +44,15 @@
 ![ts-node](https://img.shields.io/badge/ts-node-3178C6.svg?&style=for-the-badge&logo=tsnode&logoColor=white)
 
 
+<br />
+
 ### 🖥 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<br />
 
 # 💬 Contacts
 
