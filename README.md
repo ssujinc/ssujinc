@@ -5,7 +5,7 @@
   <strong>풀스택 개발자 꿈나무 최수진</strong>입니다.
 </div>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Sujin%20Choi&fontSize=75&animation=fadeIn&fontAlignY=48&desc=Thank%20you%20for%20coming%20to%20my%20github✨&descAlignY=80&descAlign=60&width=100)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Sujin%20Choi&fontSize=75&animation=fadeIn&fontAlignY=48&desc=Thank%20you%20for%20coming%20to%20my%20github✨&descAlignY=80&descAlign=60)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flshyun955&count_bg=%23429800&title_bg=%23ACE972&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
