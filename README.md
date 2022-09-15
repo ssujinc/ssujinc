@@ -12,12 +12,8 @@
 <br />
 
 <div align=center>
-  <a href="https://github-readme-status.vercel.app/api?username=ssujinc&show_icons=true&theme=radical">
     <img src="https://github-readme-status.vercel.app/api?username=ssujinc&show_icons=true&theme=radical">
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ssujinc&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssujinc&theme=radical">
-  </a>
  </div>
 
 <br />
