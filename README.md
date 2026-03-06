@@ -2,7 +2,7 @@
   
 <div align=center>
    매일 성장하는
-  <strong>풀스택 개발자 꿈나무 최수진</strong>입니다.
+  <strong>UI 개발자 최수진</strong>입니다.
 </div>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Sujin%20Choi&fontSize=75&animation=fadeIn&fontAlignY=48&desc=Thank%20you%20for%20coming%20to%20my%20github✨&descAlignY=80&descAlign=60)
